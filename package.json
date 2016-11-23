@@ -1,14 +1,14 @@
 {
-    "name": "yinhaomin-blog",
-    "title": "Yin Haomin Blog",
+    "name": "zhangjianggongyufudansanqi-blog",
+    "title": "张江公寓(复旦三期) Blog",
     "author": "Yin Haomin <bigyhm@gmail.com>",
     "version": "1.6.0",
-    "homepage": "http://yinhaomin.github.io",
+    "homepage": "http://greatchinese.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/yinhaomin/yinhaomin.github.io"
+        "url": "https://github.com/greatchinese/greatchinese.github.io"
     },
-    "bugs": "https://github.com/yinhaomin/yinhaomin.github.io/issues",
+    "bugs": "https://github.com/greatchinese/greatchinese.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
