@@ -1,15 +1,15 @@
 # Site settings
 title: Yin Haomin's Blog
-SEOTitle: 殷浩民的博客 | Yin Haomin's Blog
+SEOTitle: 张江公寓(复旦三期)的博客 | 张江公寓(复旦三期)'s Blog
 header-img: img/home-bg.jpg
 tagline: ''
 sidebar_image: /img/sea.jpg
 lang: 'zh-cmn-Hans'
-url: http://www.yinhaomin.com/
-author: Yin Haomin
+url: http://zjgyfdsq.tk/
+author: 张江公寓(复旦三期)
 plus: https://www.facebook.com/dave.yi.3
-description: "关于服务器端开发和设计 | 数据的检索 | 数据抓取 | 殷浩民 Yin Haomin| Software Engineer"
-keyword: "关于服务器端开发和设计 | 数据的检索 | 数据抓取 | 殷浩民 Yin Haomin| Software Engineer"
+description: "张江公寓(复旦三期)"
+keyword: "张江公寓(复旦三期)"
 
 # Build settings
 markdown: kramdown
