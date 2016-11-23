@@ -1,5 +1,5 @@
 # Site settings
-title: Yin Haomin's Blog
+title: 张江公寓(复旦三期)的博客
 SEOTitle: 张江公寓(复旦三期)的博客 | 张江公寓(复旦三期)'s Blog
 header-img: img/home-bg.jpg
 tagline: ''
@@ -36,7 +36,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 ba_track_id: c54eadfcc0d65d8b19556ca80774c775
 # Google Analytics
 ga_track_id: 'UA-76384105-1'            # Format: UA-xxxxxx-xx
-ga_domain: yinhaomin.com
+ga_domain: zjgyfdsq.tk
 
 # SNS settings
 RSS: false
